@@ -1,1 +1,1 @@
-# STM32_Thermometer_BareMetal
+# STM32 Thermometer BareMetal
